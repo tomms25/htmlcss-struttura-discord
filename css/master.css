@@ -23,6 +23,24 @@ header{
     margin-top: 20px;
 }
 
+.logo{
+    background-color: beige;
+    width: 30px;
+    min-height: 30px;
+}
+
+.menu{
+    background-color: bisque;
+    width: 30px;
+    min-height: 30px;
+}
+
+.accedi{
+    background-color: brown;
+    min-height: 30px;
+    width: 30px;
+}
+
 .header-text{
     background-color: white;
     width: 60%;

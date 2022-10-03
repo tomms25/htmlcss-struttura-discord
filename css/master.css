@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(37, 94, 233);
+    height: 500px;
+}
+
+
+footer{
+    height: 500px;
+    background-color: rgb(35, 39, 42);
+}

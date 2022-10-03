@@ -10,6 +10,22 @@ header{
 }
 
 
+.header-container{
+    display: flex;
+}
+
+.top-section-header{
+    background-color: white;
+    height: 30px;
+}
+
+.header-text{
+    height: 30%;
+    background-color: white;
+    justify-content: center;
+}
+
+
 footer{
     height: 500px;
     background-color: rgb(35, 39, 42);

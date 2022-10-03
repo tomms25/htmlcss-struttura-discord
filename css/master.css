@@ -65,11 +65,46 @@ header{
 }
 
 
+
+
 footer{
-    height: 500px;
+    height: 400px;
     background-color: rgb(35, 39, 42);
 }
 
-.flex-container{
+
+.footer-container{
     display: flex;
+    justify-content: space-around;
 }
+
+.first-column{
+    background-color: white;
+    height: 100px;
+    width: 70px;
+    margin-top: 50px;
+}
+
+.second-column{
+    margin-top: 50px;
+    background-color: white;
+    height: 100px;
+    width: 70px;
+}
+
+.third-column{
+    margin-top: 50px;
+    background-color: white;
+    height: 100px;
+    width: 70px;
+}
+
+.fourth-column{
+    margin-top: 50px;
+    background-color: white;
+    height: 100px;
+    width: 70px;
+
+}
+
+

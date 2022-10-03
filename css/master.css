@@ -14,3 +14,7 @@ footer{
     height: 500px;
     background-color: rgb(35, 39, 42);
 }
+
+.flex-container{
+    display: flex;
+}

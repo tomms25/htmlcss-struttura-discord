@@ -23,23 +23,6 @@ header{
     margin-top: 20px;
 }
 
-.logo{
-    background-color: beige;
-    width: 30px;
-    min-height: 30px;
-}
-
-.menu{
-    background-color: bisque;
-    width: 30px;
-    min-height: 30px;
-}
-
-.accedi{
-    background-color: brown;
-    min-height: 30px;
-    width: 30px;
-}
 
 .header-text{
     background-color: white;
@@ -48,6 +31,38 @@ header{
     margin-top: 110px;
 }
 
+
+
+
+
+.container{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.study-group{
+    background-color: white;
+    height: 500px;
+    width: auto;
+}
+
+.just-chillin{
+    background-color: rgb(246, 246, 246);
+    height: 500px;
+    width: auto;
+}
+
+.fandom{
+    background-color: white;
+    height: 500px;
+    width: auto;
+}
+
+.last-section{
+    background-color: rgb(246, 246, 246);
+    height: 1000px;
+    width: auto;
+}
 
 
 footer{

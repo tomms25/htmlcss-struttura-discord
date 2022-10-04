@@ -6,14 +6,17 @@
 
 header{
     background-color: rgb(37, 94, 233);
-    height: 400px;
+    height: 500px;
 }
 
 
-.header-container{
+.header-top{
+    height: 80px;
+    margin: 0 auto;
+    max-width: 1200px;
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .top-section-header{
@@ -25,10 +28,12 @@ header{
 
 
 .header-text{
+    height: 150px;
+    padding: 50px;
     background-color: white;
-    width: 60%;
-    min-height: 150px;
-    margin-top: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 

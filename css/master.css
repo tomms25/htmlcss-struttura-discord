@@ -19,6 +19,18 @@ header{
     align-items: center;
 }
 
+.logo{
+    margin-left: 50px;
+}
+
+.menu{
+    margin-left: 0;
+}
+
+.accedi{
+    margin-right: 50px;
+}
+
 .top-section-header{
     background-color: white;
     min-height: 30px;
@@ -28,8 +40,8 @@ header{
 
 
 .header-text{
-    height: 150px;
-    padding: 50px;
+    height: 300px;
+    margin: 100px 100px 100px 100px;
     background-color: white;
     display: flex;
     align-items: center;
@@ -49,24 +61,46 @@ header{
     background-color: white;
     height: 500px;
     width: auto;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.colonna1{
+    background-color: bisque;
+    width: 60%;
+}
+
+.colonna2{
+    background-color: brown;
+    width: 40%;
 }
 
 .just-chillin{
     background-color: rgb(246, 246, 246);
     height: 500px;
     width: auto;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .fandom{
     background-color: white;
     height: 500px;
     width: auto;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .last-section{
     background-color: rgb(246, 246, 246);
     height: 1000px;
     width: auto;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -100,6 +134,12 @@ footer{
 .footer-bottom{
     height: 40px;
     background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottone{
+    margin-right: 50px;
 }
 
 
